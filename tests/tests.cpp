@@ -2,5 +2,4 @@
 
 TEST_CASE("test", "[test]")
  {
-    REQUIRE(1 == 1);
 }
